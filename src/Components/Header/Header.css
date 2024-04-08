@@ -1,0 +1,25 @@
+.header-wrapper{
+    background-color: #1C2B35;
+    padding: 0 100px;
+}
+.nav-content-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-wrapper{
+    align-items: center;
+}
+
+.main-menu{
+    display: flex;
+    list-style: none; 
+    
+}
+.main-menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 8px 25px;
+    font-size: 17px;
+}
