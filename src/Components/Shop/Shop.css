@@ -9,3 +9,10 @@
     gap: 45px;
     margin: 100px 50px;
 }
+.order-container {
+    background-color: #FF9900;
+    padding: 30px 20px;
+}
+.order-text {
+    padding: 20px;
+}
